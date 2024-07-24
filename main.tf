@@ -10,7 +10,7 @@ terraform {
     organization = "Oreilly_test"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "TEST_TERA"
     }
   }
 }
